@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /config/
+Disallow: /backup/
+Disallow: /*.php
+Disallow: /*.bak
+Disallow: /*.swp
+
+Sitemap: https://vitanova.ae/sitemap.xml
